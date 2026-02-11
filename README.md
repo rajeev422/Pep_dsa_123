@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rajeev422/Pep_dsa_123/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
+| [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
