@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rajeev422/Pep_dsa_123/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/rajeev422/Pep_dsa_123/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rajeev422/Pep_dsa_123/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/rajeev422/Pep_dsa_123/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/rajeev422/Pep_dsa_123/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/rajeev422/Pep_dsa_123/tree/master/0134-gas-station) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rajeev422/Pep_dsa_123/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
