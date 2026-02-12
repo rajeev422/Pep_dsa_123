@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/rajeev422/Pep_dsa_123/tree/master/0134-gas-station) |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/rajeev422/Pep_dsa_123/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
