@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rajeev422/Pep_dsa_123/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
