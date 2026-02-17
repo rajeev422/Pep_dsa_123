@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rajeev422/Pep_dsa_123/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/rajeev422/Pep_dsa_123/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/rajeev422/Pep_dsa_123/tree/master/0901-online-stock-span) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajeev422/Pep_dsa_123/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rajeev422/Pep_dsa_123/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rajeev422/Pep_dsa_123/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rajeev422/Pep_dsa_123/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rajeev422/Pep_dsa_123/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajeev422/Pep_dsa_123/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rajeev422/Pep_dsa_123/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rajeev422/Pep_dsa_123/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
