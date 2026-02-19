@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Counting Sort
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -176,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
