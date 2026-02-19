@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
