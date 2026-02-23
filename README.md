@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rajeev422/Pep_dsa_123/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeev422/Pep_dsa_123/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Monotonic Stack
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
 ## Linked List
 |  |
@@ -205,13 +210,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
