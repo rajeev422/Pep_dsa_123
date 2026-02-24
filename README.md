@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/rajeev422/Pep_dsa_123/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/rajeev422/Pep_dsa_123/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -225,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rajeev422/Pep_dsa_123/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rajeev422/Pep_dsa_123/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
