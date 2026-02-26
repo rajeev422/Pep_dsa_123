@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/rajeev422/Pep_dsa_123/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rajeev422/Pep_dsa_123/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0416-partition-equal-subset-sum) |
 ## Breadth-First Search
