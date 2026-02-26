@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/rajeev422/Pep_dsa_123/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0120-triangle) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/0005-longest-palindromic-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeev422/Pep_dsa_123/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -244,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/0005-longest-palindromic-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
