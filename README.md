@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rajeev422/Pep_dsa_123/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/rajeev422/Pep_dsa_123/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0938-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/rajeev422/Pep_dsa_123/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/rajeev422/Pep_dsa_123/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
