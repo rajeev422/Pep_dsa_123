@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
