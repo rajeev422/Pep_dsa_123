@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajeev422/Pep_dsa_123/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rajeev422/Pep_dsa_123/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/rajeev422/Pep_dsa_123/tree/master/0225-implement-stack-using-queues) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0120-triangle) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/rajeev422/Pep_dsa_123/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/rajeev422/Pep_dsa_123/tree/master/0072-edit-distance) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/rajeev422/Pep_dsa_123/tree/master/0901-online-stock-span) |
 ## Binary Search
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeev422/Pep_dsa_123/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
