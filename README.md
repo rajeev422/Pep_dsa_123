@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
 | [1035-uncrossed-lines](https://github.com/rajeev422/Pep_dsa_123/tree/master/1035-uncrossed-lines) |
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
+| [1329-sort-the-matrix-diagonally](https://github.com/rajeev422/Pep_dsa_123/tree/master/1329-sort-the-matrix-diagonally) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rajeev422/Pep_dsa_123/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
+| [1329-sort-the-matrix-diagonally](https://github.com/rajeev422/Pep_dsa_123/tree/master/1329-sort-the-matrix-diagonally) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1329-sort-the-matrix-diagonally](https://github.com/rajeev422/Pep_dsa_123/tree/master/1329-sort-the-matrix-diagonally) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Counting Sort
 |  |
