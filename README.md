@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/rajeev422/Pep_dsa_123/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
 ## Data Stream
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeev422/Pep_dsa_123/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0349-intersection-of-two-arrays) |
