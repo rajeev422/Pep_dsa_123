@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/rajeev422/Pep_dsa_123/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
 | [1035-uncrossed-lines](https://github.com/rajeev422/Pep_dsa_123/tree/master/1035-uncrossed-lines) |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/rajeev422/Pep_dsa_123/tree/master/0072-edit-distance) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/rajeev422/Pep_dsa_123/tree/master/1143-longest-common-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/rajeev422/Pep_dsa_123/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
