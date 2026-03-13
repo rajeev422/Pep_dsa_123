@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/rajeev422/Pep_dsa_123/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0416-partition-equal-subset-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/rajeev422/Pep_dsa_123/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/rajeev422/Pep_dsa_123/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
 ## Data Stream
 |  |
