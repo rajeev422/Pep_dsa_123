@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/rajeev422/Pep_dsa_123/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
+| [0976-largest-perimeter-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0976-largest-perimeter-triangle) |
 | [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
 | [1035-uncrossed-lines](https://github.com/rajeev422/Pep_dsa_123/tree/master/1035-uncrossed-lines) |
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rajeev422/Pep_dsa_123/tree/master/0062-unique-paths) |
+| [0976-largest-perimeter-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0976-largest-perimeter-triangle) |
 ## Combinatorics
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rajeev422/Pep_dsa_123/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/rajeev422/Pep_dsa_123/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0976-largest-perimeter-triangle) |
 ## Data Stream
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
+| [0976-largest-perimeter-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rajeev422/Pep_dsa_123/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/rajeev422/Pep_dsa_123/tree/master/1329-sort-the-matrix-diagonally) |
