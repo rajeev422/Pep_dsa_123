@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/rajeev422/Pep_dsa_123/tree/master/1035-uncrossed-lines) |
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
 | [1329-sort-the-matrix-diagonally](https://github.com/rajeev422/Pep_dsa_123/tree/master/1329-sort-the-matrix-diagonally) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
 |  |
@@ -302,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/rajeev422/Pep_dsa_123/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
