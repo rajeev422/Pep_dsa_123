@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/rajeev422/Pep_dsa_123/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/rajeev422/Pep_dsa_123/tree/master/0766-toeplitz-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0976-largest-perimeter-triangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajeev422/Pep_dsa_123/tree/master/0992-subarrays-with-k-different-integers) |
 | [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/rajeev422/Pep_dsa_123/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/rajeev422/Pep_dsa_123/tree/master/0766-toeplitz-matrix) |
 | [1020-number-of-enclaves](https://github.com/rajeev422/Pep_dsa_123/tree/master/1020-number-of-enclaves) |
 | [1329-sort-the-matrix-diagonally](https://github.com/rajeev422/Pep_dsa_123/tree/master/1329-sort-the-matrix-diagonally) |
 ## Sorting
