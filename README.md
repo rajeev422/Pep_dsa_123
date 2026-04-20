@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1695-maximum-erasure-value](https://github.com/rajeev422/Pep_dsa_123/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev422/Pep_dsa_123/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/rajeev422/Pep_dsa_123/tree/master/2463-minimum-total-distance-traveled) |
 ## Dynamic Programming
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/rajeev422/Pep_dsa_123/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0976-largest-perimeter-triangle) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev422/Pep_dsa_123/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Data Stream
 |  |
 | ------- |
