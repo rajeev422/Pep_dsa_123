@@ -1,13 +1,6 @@
 class Solution {
 public:
-    int fun(vector<int>&arr){
-        int minn;
-        for(int i=0;i<arr.size();i++){
-           cout<<arr[i];
-        }
-        return 0;
-    }
-
+  
     int firstStableIndex(vector<int>& nums, int k) {
         int n=nums.size();
         vector<int>arr(n);
@@ -30,7 +23,6 @@ public:
                 if(i<ind)ind=i;
             }
         }
-        fun(arr);
         if(ind==n)return -1;
         return ind;
     }
