@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajeev422/Pep_dsa_123/tree/master/0992-subarrays-with-k-different-integers) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1695-maximum-erasure-value](https://github.com/rajeev422/Pep_dsa_123/tree/master/1695-maximum-erasure-value) |
 ## Monotonic Stack
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajeev422/Pep_dsa_123/tree/master/0992-subarrays-with-k-different-integers) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1695-maximum-erasure-value](https://github.com/rajeev422/Pep_dsa_123/tree/master/1695-maximum-erasure-value) |
 ## Bucket Sort
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/rajeev422/Pep_dsa_123/tree/master/0072-edit-distance) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/rajeev422/Pep_dsa_123/tree/master/1143-longest-common-subsequence) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/1156-swap-for-longest-repeated-character-substring) |
 ## Prefix Sum
 |  |
 | ------- |
