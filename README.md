@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
 | [1329-sort-the-matrix-diagonally](https://github.com/rajeev422/Pep_dsa_123/tree/master/1329-sort-the-matrix-diagonally) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1695-maximum-erasure-value](https://github.com/rajeev422/Pep_dsa_123/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev422/Pep_dsa_123/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rajeev422/Pep_dsa_123/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rajeev422/Pep_dsa_123/tree/master/0062-unique-paths) |
 | [0976-largest-perimeter-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0976-largest-perimeter-triangle) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/rajeev422/Pep_dsa_123/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Monotonic Queue
 |  |
 | ------- |
