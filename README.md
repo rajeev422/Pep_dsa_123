@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/rajeev422/Pep_dsa_123/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/rajeev422/Pep_dsa_123/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajeev422/Pep_dsa_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/rajeev422/Pep_dsa_123/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/rajeev422/Pep_dsa_123/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0416-partition-equal-subset-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/0918-maximum-sum-circular-subarray) |
 | [1035-uncrossed-lines](https://github.com/rajeev422/Pep_dsa_123/tree/master/1035-uncrossed-lines) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rajeev422/Pep_dsa_123/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rajeev422/Pep_dsa_123/tree/master/0062-unique-paths) |
+| [0396-rotate-function](https://github.com/rajeev422/Pep_dsa_123/tree/master/0396-rotate-function) |
 | [0976-largest-perimeter-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0976-largest-perimeter-triangle) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Combinatorics
