@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rajeev422/Pep_dsa_123/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rajeev422/Pep_dsa_123/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/rajeev422/Pep_dsa_123/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajeev422/Pep_dsa_123/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0118-pascals-triangle) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajeev422/Pep_dsa_123/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/rajeev422/Pep_dsa_123/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeev422/Pep_dsa_123/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rajeev422/Pep_dsa_123/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/rajeev422/Pep_dsa_123/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0349-intersection-of-two-arrays) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/rajeev422/Pep_dsa_123/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/rajeev422/Pep_dsa_123/tree/master/0072-edit-distance) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0796-rotate-string) |
