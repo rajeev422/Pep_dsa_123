@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/rajeev422/Pep_dsa_123/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rajeev422/Pep_dsa_123/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/rajeev422/Pep_dsa_123/tree/master/0766-toeplitz-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/0918-maximum-sum-circular-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0976-largest-perimeter-triangle) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rajeev422/Pep_dsa_123/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
