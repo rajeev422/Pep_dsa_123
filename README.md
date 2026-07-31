@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rajeev422/Pep_dsa_123/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rajeev422/Pep_dsa_123/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/rajeev422/Pep_dsa_123/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0219-contains-duplicate-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/rajeev422/Pep_dsa_123/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
