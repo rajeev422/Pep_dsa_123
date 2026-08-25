@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rajeev422/Pep_dsa_123/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/rajeev422/Pep_dsa_123/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rajeev422/Pep_dsa_123/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajeev422/Pep_dsa_123/tree/master/0049-group-anagrams) |
@@ -375,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
