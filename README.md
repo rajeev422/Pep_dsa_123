@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/rajeev422/Pep_dsa_123/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/rajeev422/Pep_dsa_123/tree/master/0724-find-pivot-index) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/rajeev422/Pep_dsa_123/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajeev422/Pep_dsa_123/tree/master/0992-subarrays-with-k-different-integers) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/rajeev422/Pep_dsa_123/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rajeev422/Pep_dsa_123/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rajeev422/Pep_dsa_123/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
