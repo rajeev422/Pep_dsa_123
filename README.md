@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/rajeev422/Pep_dsa_123/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajeev422/Pep_dsa_123/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/rajeev422/Pep_dsa_123/tree/master/0766-toeplitz-matrix) |
+| [0904-fruit-into-baskets](https://github.com/rajeev422/Pep_dsa_123/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0930-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0976-largest-perimeter-triangle) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rajeev422/Pep_dsa_123/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajeev422/Pep_dsa_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-fruit-into-baskets](https://github.com/rajeev422/Pep_dsa_123/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajeev422/Pep_dsa_123/tree/master/0992-subarrays-with-k-different-integers) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rajeev422/Pep_dsa_123/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/rajeev422/Pep_dsa_123/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajeev422/Pep_dsa_123/tree/master/0992-subarrays-with-k-different-integers) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/1156-swap-for-longest-repeated-character-substring) |
