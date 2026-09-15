@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajeev422/Pep_dsa_123/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/rajeev422/Pep_dsa_123/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rajeev422/Pep_dsa_123/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeev422/Pep_dsa_123/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/rajeev422/Pep_dsa_123/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeev422/Pep_dsa_123/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rajeev422/Pep_dsa_123/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rajeev422/Pep_dsa_123/tree/master/0876-middle-of-the-linked-list) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/rajeev422/Pep_dsa_123/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/rajeev422/Pep_dsa_123/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajeev422/Pep_dsa_123/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0455-assign-cookies) |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rajeev422/Pep_dsa_123/tree/master/0039-combination-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
