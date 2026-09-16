@@ -11,26 +11,13 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root){
+    int fun(TreeNode*root){
         if(root==nullptr)return 0;
-        queue<TreeNode*>q;
-        q.push(root);
-        int level=0;
-        while(!q.empty()){
-            int n=q.size();
-            for(int i=0;i<n;i++){
-                TreeNode* curr=q.front();
-                q.pop();
-                if(curr->left)q.push(curr->left);
-                if(curr->right)q.push(curr->right);
-            }
-            level++;
-        }
-        return level;
-
-
+        int left=fun(root->left);
+        int right=fun(root->right);
+        return 1+max(left,right);
     }
     int maxDepth(TreeNode* root) {
-        return height(root);
+        return fun(root);
     }
 };
