@@ -399,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajeev422/Pep_dsa_123/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/rajeev422/Pep_dsa_123/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
