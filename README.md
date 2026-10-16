@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rajeev422/Pep_dsa_123/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev422/Pep_dsa_123/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/rajeev422/Pep_dsa_123/tree/master/2463-minimum-total-distance-traveled) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/rajeev422/Pep_dsa_123/tree/master/0992-subarrays-with-k-different-integers) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1695-maximum-erasure-value](https://github.com/rajeev422/Pep_dsa_123/tree/master/1695-maximum-erasure-value) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Monotonic Stack
 |  |
 | ------- |
