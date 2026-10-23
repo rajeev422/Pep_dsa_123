@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/rajeev422/Pep_dsa_123/tree/master/0992-subarrays-with-k-different-integers) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1695-maximum-erasure-value](https://github.com/rajeev422/Pep_dsa_123/tree/master/1695-maximum-erasure-value) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajeev422/Pep_dsa_123/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rajeev422/Pep_dsa_123/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Monotonic Stack
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rajeev422/Pep_dsa_123/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajeev422/Pep_dsa_123/tree/master/0992-subarrays-with-k-different-integers) |
 | [1051-height-checker](https://github.com/rajeev422/Pep_dsa_123/tree/master/1051-height-checker) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajeev422/Pep_dsa_123/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/rajeev422/Pep_dsa_123/tree/master/1143-longest-common-subsequence) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajeev422/Pep_dsa_123/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
