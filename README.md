@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajeev422/Pep_dsa_123/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rajeev422/Pep_dsa_123/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/rajeev422/Pep_dsa_123/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/rajeev422/Pep_dsa_123/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/rajeev422/Pep_dsa_123/tree/master/0072-edit-distance) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/rajeev422/Pep_dsa_123/tree/master/0796-rotate-string) |
